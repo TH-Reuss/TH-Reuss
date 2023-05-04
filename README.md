@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # About me 
-- 👨‍🎓 developer of Universidad Técnica Federico Santa María UTFSM.
+- 👨‍🎓 Developer of Universidad Técnica Federico Santa María UTFSM.
 - 🌱 I love learning new things and taking on new challenges..
 - 📫 How to reach me: [Look at my personal portfolio](http://threuss.cl "Look at my personal portfolio")
 
